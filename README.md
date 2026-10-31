@@ -186,17 +186,6 @@ Through this project, I gained practical experience with:
 - Auto-generated database IDs
 - API testing with Postman
 
-## 🚀 Future Improvements
-
-Possible improvements for future versions include:
-
-- Implementing the API using Java and Spring Boot
-- Request validation
-- Global exception handling
-- Pagination and sorting
-- Swagger/OpenAPI documentation
-- Unit and integration testing
-- Authentication and authorization
 
 ## 👨‍💻 Author
 
